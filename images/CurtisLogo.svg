@@ -1,0 +1,83 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none" viewBox="0 0 527 527">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #000;
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        stroke-linecap: square;
+      }
+
+      .cls-1, .cls-10, .cls-2, .cls-3, .cls-4, .cls-6, .cls-8 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-10, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-2, .cls-5, .cls-6 {
+        stroke: #754c28;
+      }
+
+      .cls-2 {
+        stroke-width: 10px;
+      }
+
+      .cls-3, .cls-7, .cls-8 {
+        stroke: #231f20;
+      }
+
+      .cls-3 {
+        stroke-width: 8px;
+      }
+
+      .cls-10, .cls-4, .cls-9 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 4px;
+      }
+
+      .cls-5, .cls-7, .cls-9 {
+        stroke-linejoin: bevel;
+      }
+
+      .cls-5, .cls-6 {
+        stroke-width: 23px;
+      }
+
+      .cls-7, .cls-8 {
+        stroke-width: 20px;
+      }
+
+      .cls-9 {
+        stroke-width: 15.75px;
+      }
+
+      .cls-10 {
+        stroke-width: 16.23px;
+      }
+    </style>
+  </defs>
+  <title>2f5a0077-4f63-4b7d-a9e9-5bdf17df4301</title>
+  <circle class="cls-1" cx="263.5" cy="263.5" r="261"/>
+  <circle id="brown_inner_circle" data-name="brown inner circle" class="cls-2" cx="263.5" cy="263.5" r="234"/>
+  <circle id="black_inner_circle" data-name="black inner circle" class="cls-3" cx="263.5" cy="263.5" r="234"/>
+  <circle id="white_inner_circle" data-name="white inner circle" class="cls-4" cx="263.5" cy="263.5" r="234"/>
+  <g id="initials_brown" data-name="initials brown">
+    <path class="cls-5" d="M268.1,128.8C242.5,94.4,191.9,87.6,156,110.1c-62.3,39-72.3,143.1-9.2,186,24.5,16.7,55.3,21.4,85,21.3,54.6-.1,109.3-4.6,164-5.1"/>
+    <path class="cls-6" d="M397.5,224.9l-137.4,1.4,1.8,22.5,1.5,150.8c9.1-.1,18.1-1.6,27.2-2.4l111.3-1.1"/>
+  </g>
+  <g id="initials_black" data-name="initials black">
+    <path class="cls-7" d="M268.1,128.8C242.5,94.4,191.9,87.6,156,110.1c-62.3,39-72.3,143.1-9.2,186,24.5,16.7,55.3,21.4,85,21.3,54.6-.1,109.3-4.6,164-5.1"/>
+    <path class="cls-8" d="M397.5,224.9l-137.4,1.4,1.8,22.5,1.5,150.8c9.1-.1,18.1-1.6,27.2-2.4l111.3-1.1"/>
+  </g>
+  <g id="initials_white" data-name="initials white">
+    <path class="cls-9" d="M268.1,128.8C242.5,94.4,191.9,87.6,156,110.1c-62.3,39-72.3,143.1-9.2,186,24.5,16.7,55.3,21.4,85,21.3,54.6-.1,109.3-4.6,164-5.1"/>
+    <path class="cls-10" d="M397.5,224.9l-137.4,1.4,1.8,22.5,1.5,150.8c9.1-.1,18.1-1.6,27.2-2.4l111.3-1.1"/>
+  </g>
+</svg>
