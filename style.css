@@ -1,4 +1,23 @@
 /* Global styles*/
+
+.brand_link {
+  width: 25%;
+  display: flex;
+}
 .logo_pic {
-  width: 20%;
+  height: 4em;
+  width: auto;
+}
+
+.name_box {
+  margin: auto 5px;
+}
+
+.c_easley {
+  letter-spacing: 0.1em;
+}
+
+.filmmaker {
+  display: flex;
+  letter-spacing: 0.25em;
 }
