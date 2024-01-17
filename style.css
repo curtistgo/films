@@ -22,8 +22,14 @@
   letter-spacing: 0.25em;
 }
 
-.navbar-nav a:hover {
-  background-color: aqua;
+.menu {
+  font-size: 25px;
+}
+
+.menu:hover {
+  background: rgba(0, 0, 0, 0.65);
+  font-size: 22px;
+  color: aliceblue;
 }
 
 /* index page */
@@ -42,4 +48,45 @@
   /* background-size: cover; */
   padding: 0 15px;
   width: 33%;
+}
+
+/* Project Page */
+.project_sec {
+  margin-top: 10px;
+}
+
+section h2 {
+  background: rgba(0, 0, 0, 0.65);
+  color: honeydew;
+  margin-left: 2px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  font-family: "Oswald", sans-serif;
+  text-shadow: 3px 2px rgb(6 6 10);
+}
+
+.pic_info {
+  display: inline-block;
+  align-items: start;
+  justify-self: center;
+}
+.m_poster {
+  box-shadow: 5px 5px 10px rgba(77, 77, 77, 0.5);
+}
+
+article h3 {
+  position: relative;
+  bottom: 40px;
+  background: rgba(0, 0, 0, 0.65);
+  color: honeydew;
+  margin-left: 2px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  font-family: "Oswald", sans-serif;
+  text-shadow: 3px 2px rgb(6 6 10);
+}
+
+article h3 span {
+  font-size: 18px;
+  font-weight: 400;
 }
