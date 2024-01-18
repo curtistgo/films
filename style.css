@@ -23,12 +23,12 @@
 }
 
 .menu {
-  font-size: 25px;
+  font-size: larger;
+  justify-content: space-around;
 }
 
 .menu:hover {
-  background: rgba(0, 0, 0, 0.65);
-  font-size: 22px;
+  /* font-size: 18px; */
   color: aliceblue;
 }
 
@@ -59,10 +59,11 @@ section h2 {
   background: rgba(0, 0, 0, 0.65);
   color: honeydew;
   margin-left: 2px;
-  padding-left: 10px;
+  padding-left: 30px;
   padding-bottom: 10px;
   font-family: "Oswald", sans-serif;
   text-shadow: 3px 2px rgb(6 6 10);
+  text-align: start;
 }
 
 .pic_info {
@@ -89,4 +90,76 @@ article h3 {
 article h3 span {
   font-size: 18px;
   font-weight: 400;
+}
+
+/* about page */
+
+.about-text {
+  font-size: 24px;
+  margin-bottom: 55px;
+}
+
+/* contact page */
+
+.contact-img {
+  width: 40em;
+  height: auto;
+  box-shadow: 4px 4px 8px rgba(77, 77, 77, 0.6);
+}
+
+.form-fields {
+  margin-bottom: 40px;
+}
+
+.img-form {
+  display: flex;
+}
+
+.field-name {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 1.5em;
+}
+
+.input_box {
+  box-shadow: 2px 2px 10px #b1b1ce;
+  width: 100%;
+}
+
+.contact-info {
+  font-size: 2.5em;
+  text-align: center;
+  font-family: oswald, coda;
+  font-weight: 500;
+}
+
+.nice {
+  font-size: 2em;
+  font-weight: 300;
+  font-style: oblique;
+}
+
+.sub_set {
+  margin-top: 10px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+  width: 25%;
+  box-shadow: 2px 2px 10px #b1b1ce;
+  font-weight: bold;
+  color: rgb(255, 255, 240);
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.sub_set:hover {
+  color: black;
+  background: white;
+  border: solid 1px;
+}
+
+/* Media Queries medium resolution */
+
+@media screen and (max-width: 992px) {
+  .form-fields {
+    margin-left: -20px;
+  }
 }
